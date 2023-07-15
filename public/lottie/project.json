@@ -1,0 +1,54 @@
+{
+    "data": [
+        {
+            "img": "/lincor",
+            "title": "LinCor (Online Korea Language)",
+            "link": "lincor.uz"
+        },
+        {
+            "img": "/neevoo",
+            "title": "Neevoo (Online IT Teacher)",
+            "link": "neevoo.uz"
+        },
+        {
+            "img": "/my",
+            "title": "Neevoo (Online IT Teacher)",
+            "link": "https://rezume2.netlify.app/"
+        },
+        {
+            "img": "/irena",
+            "title": "Irena Web Site for Client",
+            "link": "https://irena-jzsm.vercel.app/"
+        },
+        {
+            "img": "/sabina",
+            "title": "Sabina's Academy Web Sites",
+            "link": "https://akademy.netlify.app/"
+        },
+        {
+            "img": "/mahina",
+            "title": "Mahina Shop Online Market",
+            "link": "https://mahinashop.netlify.app/"
+        },
+        {
+            "img": "/template",
+            "title": "Landing page for client",
+            "link": "https://akmaljon1233.netlify.app/"
+        },
+        {
+            "img": "/Ringo",
+            "title": "Landing page for client",
+            "link": "https://day12month2.netlify.app/"
+        },
+        {
+            "img": "/asaxiy",
+            "title": "Asaxiy Web Site Template",
+            "link": "https://ubiquitous-pothos-310188.netlify.app/"
+        },
+        {
+            "img": "/Kun",
+            "title": "Kun.uz Web site Template",
+            "link": "https://kunuzb111.netlify.app/"
+        }
+    ]
+}

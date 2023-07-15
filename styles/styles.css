@@ -1,0 +1,18 @@
+body > div:first-child {
+  overflow-x: hidden;
+}
+
+.container {
+  max-width: 1440px !important;
+}
+
+@media screen and (max-width: 558px) {
+  .items {
+    width: 300px !important;
+    height: 400px !important;
+  }
+
+  .items img {
+    height: 200px !important;
+  }
+}
